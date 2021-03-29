@@ -6,7 +6,6 @@
   "typings": "dist/index.d.ts",
   "author": "Gialynguyen",
   "license": "MIT",
-  "private": true,
   "sideEffects": false,
   "files": [
     "src",
