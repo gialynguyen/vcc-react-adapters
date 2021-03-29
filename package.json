@@ -1,12 +1,20 @@
 {
   "name": "hardcore-react-adapters",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "typings": "dist/index.d.ts",
   "author": "Gialynguyen",
   "license": "MIT",
   "private": true,
+  "sideEffects": false,
+  "files": [
+    "src",
+    "dist"
+  ],
+  "repository": {
+    "url": "https://github.com/VC-Team/hardcore-react-adapters"
+  },
   "scripts": {
     "build": "rollup -c"
   },
