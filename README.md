@@ -1,1 +1,1 @@
-# hardcore-react-adapters
+# vc-react-adapters
